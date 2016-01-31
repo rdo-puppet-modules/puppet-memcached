@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Sun, 31 Jan 2016 04:33:44 +0100
+Reviewed-on: https://review.gerrithub.io/261692
+Project: rdo-puppet-modules/puppet-memcached
+Branch: refs/heads/recomb-original-master-51458400b1150f2b255ae60e889d35a808b95ee5
